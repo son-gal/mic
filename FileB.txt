@@ -1,1 +1,2 @@
 This is file B.
+Thiis is change to file.
